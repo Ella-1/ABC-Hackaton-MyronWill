@@ -1,4 +1,4 @@
-# Myron Will Smart Contract
+# Myron Will
 
 ## Overview
 `Myron Will` is an Ethereum-based smart contract for managing digital wills. It allows users to create wills, assign beneficiaries, deposit ETH, and automate fund distribution after a specified inactivity period using Chainlink Automation. A 1.1% fee is deducted during distribution.
