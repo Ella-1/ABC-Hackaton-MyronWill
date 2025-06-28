@@ -250,6 +250,7 @@ const WillForm = () => {
     }
   };
 
+  // handling registe
   const handleRegister = async () => {
     if (!isConnected || !provider) {
       toast({
