@@ -75,5 +75,43 @@
 - Ensure Chainlink Automation is configured for `checkUpkeep` and `performUpkeep`.
 - The `receive` function allows direct ETH deposits to the latest will.
 
+---
+
+## Running the App Locally
+
+To set up and run the Myron Will application on your local machine, follow these steps:
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [YOUR_REPOSITORY_URL_HERE]
+    cd myron-will # Or the name of your repository folder
+    ```
+    *(Remember to replace `[YOUR_REPOSITORY_URL_HERE]` with the actual URL of your project's GitHub repository.)*
+
+2.  **Install Dependencies:**
+    Navigate into the project directory and install all the necessary Node.js packages:
+    ```bash
+    npm install
+    ```
+
+3.  **Start the Development Server:**
+    Once the dependencies are installed, you can start the local development server:
+    ```bash
+    npm run dev
+    ```
+    This command typically starts the application on `http://localhost:3000` (or another port if 3000 is occupied). Open your web browser and navigate to this address to view the app.
+
+---
+
+## Deployed Application
+
+You can access the live, deployed version of the Myron Will application here:
+
+[**[https://abc-hackaton-myron-will.vercel.app]**](https://abc-hackaton-myron-will.vercel.app])
+
+*(Remember to replace `[LINK_TO_YOUR_DEPLOYED_APP_HERE]` with the actual URL of your deployed application.)*
+
+---
+
 ## License
 MIT License
