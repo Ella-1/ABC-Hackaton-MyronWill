@@ -109,7 +109,7 @@ You can access the live, deployed version of the Myron Will application here:
 
 [**[https://abc-hackaton-myron-will.vercel.app]**](https://abc-hackaton-myron-will.vercel.app])
 
-*(Remember to replace `[LINK_TO_YOUR_DEPLOYED_APP_HERE]` with the actual URL of your deployed application.)*
+
 
 ---
 
